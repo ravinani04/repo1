@@ -1,2 +1,2 @@
-# repo1
+# chinni
 This is sample gethub repo
